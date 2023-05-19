@@ -1,0 +1,29 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.title{
+    box-shadow: 6px 6px 6px whitesmoke;
+margin: 0px;
+    font-size: 25px;
+    width: 100%;
+
+    font-family: cursive;
+}
+
+.copy_right_footer{
+    background-color: aqua;
+position: fixed;
+    bottom: 0;
+
+    width: 100%;
+
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 2;
+}
+
+canvas{
+    border-style:dashed;
+    border-radius: 20px;
+}
